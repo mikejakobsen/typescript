@@ -24,6 +24,12 @@ In javascript you just have functions. You use namespaces to get it out of the g
 
 ## Primitive Types
 
+### Javascript
+![Type Inference](assets/var.png)
+
+### Typescript
+![Type Inference](assets/type-inference.png)
+
 Type | Code      
 --- | ---
 Any type (explicitly untyped) | `any`
