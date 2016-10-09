@@ -47,6 +47,8 @@ enum Options {
 }
 ```
 
+Functions is an object.
+
 ## Custom primitives. Type aliases
 
 Type | Code      

@@ -5,16 +5,16 @@ class Car {
   }
 
   start() {
-    alert('Started: ' + this.eninge);
+    alert("Started: " + this.eninge);
   }
 
   stop() {
-    alert('Started: ' + this.eninge);
+    alert("Started: " + this.eninge);
   }
 }
 
 window.onload = function () {
-  var car = new Car('V6');
+  let car = new Car("V6");
   car.start();
   car.stop();
 };
