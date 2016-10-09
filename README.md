@@ -13,14 +13,14 @@
 | public/private   | Member visibility modifiers                            |
 | ...              | Rest parameter syntax                                  |
 | =>               | Arrow syntax used with definition and functions        |
-| <typename>       | <> characters use to cast/convert between types        |
+| < typename>       | <> characters use to cast/convert between types        |
 | :                | Separator between variable/parameter names and types   |
 
 ## Code Hierarchy
 
 In javascript you just have functions. You use namespaces to get it out of the global scope
 
-![Typescript](assets/hierachy.png)
+![Typescript Hierarchy](assets/hierachy.png)
 
 ## Primitive Types
 
